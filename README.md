@@ -1,0 +1,2 @@
+# MultiWebServer-HTTPClient
+This code was built as a proof of concept. It features a multithreaded server and a client. Once the server is run, it is hosted off of 127.0.0.1:1500. If you have an html file in the same directory, you can access the the file through the browser by typing in the url [ 127.0.0.1:1500/file.html ]. The file can also be reached through terminal, in which case you would have to run the client.py file. This would display the contents of the file in the terminal.
